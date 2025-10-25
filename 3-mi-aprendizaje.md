@@ -1,3 +1,5 @@
-# COMPLETAR  
-Comparando sus conocimientos antes de hacer la práctica con sus conocimientos después de hacer la tarea, explicar los principales aprendizajes logrados para beneficio de su formación profesional.  
-Si solucionó un problema presentado al realizar la práctica también se debe documentar.
+# Mi aprendizaje 
+
+Antes de realizar la práctica tenía conocimientos generales de docker y los que he aprendido con anteriores prácticas. 
+
+Ahora se la estructura y sintaxis para los archivos YAML, definir multiples servicios, configurar volumenes, implementación de healthchecks y mapeo de puertos. 
